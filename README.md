@@ -1,4 +1,4 @@
-### My name is ghofran , I live in Amman/Jordan and I am pharmacist.
+### My name is ghofran aljabr, I live in Amman/Jordan .
 ---------
 # Table of Contents
 -----------

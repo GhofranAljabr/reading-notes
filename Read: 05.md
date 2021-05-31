@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Read: 05
 ## Operators and Loops
 ------------------------------
@@ -85,4 +86,6 @@ btn.addEventListener('click', function() {
   alert('Number of options selected: ' + howMany(document.selectForm.musicTypes));
 });
 </script>
+=======
+>>>>>>> 282147f3b4a5aa8a53da1f6f2242bcc5cd698804
 

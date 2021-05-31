@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Control flow
 ------------------------
 *** The control flow is the sequence in which a script's statements are executed by the computer.
@@ -32,3 +33,6 @@ Assign values to variables and add them together:
 var x = 5;         // assign the value 5 to x
 var y = 2;         // assign the value 2 to y
 var z = x + y;     // assign the value 7 to z (5 + 2)
+=======
+
+>>>>>>> cc567afe299bcfba287290350020c7e5fedb90cf

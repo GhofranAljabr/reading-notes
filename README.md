@@ -12,4 +12,4 @@
 |Read: 04.md |[Read:04](https://ghofranaljabr.github.io/reading-notes/Read:%2004)  |
 |Read: 05.md |[Read:05](https://ghofranaljabr.github.io/reading-notes/Read:%2005)  |
 |Read: 06.md |[Read:06](https://ghofranaljabr.github.io/reading-notes/Read:%2006)  |
-|Read: 06b.md |[Read:06b](https://ghofranaljabr.github.io/reading-notes/Read:%2007)  |
+|Read: 06b.md |[Read:06b](https://ghofranaljabr.github.io/reading-notes/Read:%2006b)  |

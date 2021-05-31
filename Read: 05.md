@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Read: 05
 ## Operators and Loops
 ------------------------------
@@ -55,6 +54,7 @@ while (n < 3) {
 Example
 In the example below, the function contains a for statement that counts the number of selected options in a scrolling list (a <select> element that allows multiple selections). The for statement declares the variable i and initializes it to 0. It checks that i is less than the number of options in the <select> element, performs the succeeding if statement, and increments i by after each pass through the loop.
 
+``` ruby
 <form name="selectForm">
   <p>
     <label for="musicTypes">Choose some music types, then click the button below:</label>
@@ -86,6 +86,5 @@ btn.addEventListener('click', function() {
   alert('Number of options selected: ' + howMany(document.selectForm.musicTypes));
 });
 </script>
-=======
->>>>>>> 282147f3b4a5aa8a53da1f6f2242bcc5cd698804
 
+```

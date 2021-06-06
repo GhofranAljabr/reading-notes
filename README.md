@@ -15,3 +15,5 @@
 |Read: 05.md |[Read:05](https://ghofranaljabr.github.io/reading-notes/Read:%2005)  |
 |Read: 06.md |[Read:06](https://ghofranaljabr.github.io/reading-notes/Read:%2006)  |
 |Read: 07.md |[Read:07](https://ghofranaljabr.github.io/reading-notes/Read:%2007)  |
+|Read: 01b.md |[Read:01b](https://ghofranaljabr.github.io/reading-notes/Read:%2008)  |
+
